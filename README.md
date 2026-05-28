@@ -41,9 +41,13 @@ Date: May 2026
 
 ### Home Page
 ![Home](screenshots/Home.png)
+### About Page
 ![About](screenshots/About.png)
+### Gallery Page
 ![Gallery](screenshots/Gallery.png)
+### Order Page
 ![Order](screenshots/Order.png)
+### Contact Page
 ![Contact](screenshots/Contact.png)
 
 
