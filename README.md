@@ -37,7 +37,13 @@ https://github.com/12232536-png/cozycup
 Date: May 2026
 
 
-## screenshoots
+## screenshots
 
 ### Home Page
-![Home](screenshoots/Home.png)
+![Home](screenshots/Home.png)
+![About](screenshots/About.png)
+![Gallery](screenshots/Gallery.png)
+![Order](screenshots/Order.png)
+![Contact](screenshots/Contact.png)
+
+
